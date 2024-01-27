@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "US Dollar Coin (USDC)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "icon": "https://example.com/usdc-icon.png",
+      "balance": 1000000,
+      "issuer": "Centre Consortium",
+      "price": 1.00,  
+      "blockchain": {
+        "network": "Ethereum",
+        "contractType": "ERC-20"
+      },
+      "creationDate": "2018-09-26"
+    },
+    {
+      "id": 2,
+      "name": "Tether (USDT)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "icon": "https://example.com/usdt-icon.png",
+      "balance": 500000,
+      "issuer": "Tether Limited",
+      "price": 1.00,  
+      "blockchain": {
+        "network": "Ethereum",
+        "contractType": "ERC-20"
+      },
+      "creationDate": "2014-10-06"
+    },
+    {
+      "id": 3,
+      "name": "TrueUSD (TUSD)",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "icon": "https://example.com/tusd-icon.png",
+      "balance": 750000,
+      "issuer": "TrustToken",
+      "price": 1.00,  
+      "blockchain": {
+        "network": "Ethereum",
+        "contractType": "ERC-20"
+      },
+      "creationDate": "2018-03-06"
+    },
+    {
+      "id": 4,
+      "name": "Binance USD (BUSD)",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "icon": "https://example.com/busd-icon.png",
+      "balance": 300000,
+      "issuer": "Binance",
+      "price": 1.00,
+      "blockchain": {
+        "network": "Binance Smart Chain",
+        "contractType": "BEP-20"
+      },
+      "creationDate": "2019-09-16"
+    }
+]
+  

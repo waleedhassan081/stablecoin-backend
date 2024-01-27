@@ -1,0 +1,26 @@
+[
+  {
+    "senderId": 1,
+    "symbol": "USDC",
+    "sender": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "recipient": "0xa0b86991c6218b36c1d19d4a2e9eb0ce36hsa128",
+    "amount": 500,
+    "network": "Ethereum",
+    "networkFee": "0 USDC",
+    "txId": "1fa23103-800f-4be5-bd3b-4f784b72068e",
+    "status": "Completed",
+    "date": "2024-01-27T09:29:07.886Z"
+  },
+  {
+    "senderId": 2,
+    "symbol": "USDT",
+    "sender": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "recipient": "0xa0b86991c6218b36c1d19d4a2e9eb0ce36hsj897",
+    "amount": 800,
+    "network": "Ethereum",
+    "networkFee": "0 USDT",
+    "txId": "a312600a-92e6-466a-99da-19e1f0eaf197",
+    "status": "Completed",
+    "date": "2024-01-27T09:29:27.361Z"
+  }
+]
